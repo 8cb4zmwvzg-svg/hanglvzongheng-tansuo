@@ -1,0 +1,1 @@
+仅上传 index.html 到 GitHub 仓库根目录即可。全部图片、样式和脚本已内嵌，无需 assets 文件夹。覆盖原 index.html 后提交，保留现有 Pages 发布设置。文件可直接使用浏览器打开预览。
